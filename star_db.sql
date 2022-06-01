@@ -643,7 +643,7 @@ VALUES
 (
 	GALAKTYKA_SEQ.nextval,
 	162980,
-	'Ob³ok Magellana'
+	'ObÂ³ok Magellana'
 );
 
 INSERT INTO NARZEDZIE_ODKRYWCZE -- 3
@@ -660,7 +660,7 @@ VALUES
 (
 	MIASTO_SEQ.nextval,
 	1,
-	'Garching bei München'
+	'Garching bei MÃ¼nchen'
 );
 
 INSERT INTO MIASTO --5
@@ -677,7 +677,7 @@ VALUES
 (
 	ADRES_SEQ.nextval,
 	4,
-	'Karl-Schwarzschild-Straße',
+	'Karl-Schwarzschild-StraÃŸe',
 	'2'
 );
 
@@ -686,7 +686,7 @@ VALUES
 (
 	ADRES_SEQ.nextval,
 	5,
-	'Eberswalder Straße',
+	'Eberswalder StraÃŸe',
 	'143'
 );
 
@@ -739,7 +739,7 @@ VALUES
 (
 	GALAKTYKA_SEQ.nextval,
 	14000000000000,
-	'Odleg³a Galaktyka Spiralna'
+	'OdlegÂ³a Galaktyka Spiralna'
 );
 
 INSERT INTO NARZEDZIE_ODKRYWCZE -- 4
@@ -833,7 +833,7 @@ INSERT INTO KRAJ --3
 VALUES
 (
 	KRAJ_SEQ.nextval,
-	'Po³udniowa Afryka'
+	'PoÂ³udniowa Afryka'
 );
 
 
@@ -1465,7 +1465,7 @@ VALUES
 (
 	MIASTO_SEQ.nextval,
 	8,
-	'Pary¿'
+	'ParyÂ¿'
 );
 
 INSERT INTO ADRES -- 23
@@ -1619,7 +1619,7 @@ VALUES
 (
 	ADRES_SEQ.nextval,
 	20,
-	'Louisenstraße',
+	'LouisenstraÃŸe',
 	'126/2'
 );
 
